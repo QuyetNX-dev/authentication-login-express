@@ -1,0 +1,15 @@
+{
+  "todo": [],
+  "users": [
+    {
+      "name": "Nguyễn Xuân Quyết",
+      "phone": "0357842534",
+      "email": "quyetnxm04120@arena.edu.vn",
+      "password": "123456",
+      "stt": 1,
+      "id": "A3Bg2xQZY",
+      "isAdmin": false
+    }
+  ],
+  "transection": []
+}
